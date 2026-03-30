@@ -96,7 +96,7 @@ source venv/bin/activate
 source venv/bin/activate
 
 # 2. 运行主程序（推荐选择手动模式）
-python3 cross_platform_course.py
+python3 cross_platform_course_fixed.py
 ```
 
 **方式二：配置文件使用**
@@ -123,7 +123,7 @@ python3 quick_start.py
 
 **方式三：命令行直接使用**
 ```bash
-python3 cross_platform_course.py
+python3 cross_platform_course_fixed.py
 # 按提示输入课程URL、浏览器类型、登录信息等
 ```
 
